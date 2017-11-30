@@ -1,6 +1,8 @@
 SimplePreference
 ========
 
+[![Release](https://jitpack.io/v/genju83/simplepreference.svg)](https://jitpack.io/#genju83/Repo)
+
 `SimplePreference` is a annotation processor for easy SharedPreferences usage.
 
 ### Example
